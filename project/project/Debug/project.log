@@ -1,0 +1,27 @@
+﻿  Source.cpp
+d:\os\project\project\source.cpp(72): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(103): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(159): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(186): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(198): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(204): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(231): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(237): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(245): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(256): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(273): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(287): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(304): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(337): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(375): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+d:\os\project\project\source.cpp(424): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(473): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(479): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(487): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(494): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(509): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(520): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(537): warning C4018: '<': signed/unsigned mismatch
+d:\os\project\project\source.cpp(361): warning C4101: 'fsize': unreferenced local variable
+  project.vcxproj -> D:\OS\project\Debug\project.exe
+  project.vcxproj -> D:\OS\project\Debug\project.pdb (Full PDB)
